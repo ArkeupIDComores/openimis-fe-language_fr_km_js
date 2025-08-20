@@ -4211,5 +4211,6 @@
     "insuree.HousingType.18": "En paille, sol en ciment, toit en tôle",
     "insuree.HousingType.19": "En paille, sol en ciment, toit en paille",
     "insuree.HousingType.20": "En paille, sol en terre, toit en tôle",
-    "insuree.HousingType.21": "En paille, sol en terre, toit en paille"
+    "insuree.HousingType.21": "En paille, sol en terre, toit en paille",
+    "claim.patientCondition.T": "En traitement"
 }
