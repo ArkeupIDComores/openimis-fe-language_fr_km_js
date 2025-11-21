@@ -4237,6 +4237,7 @@
     "claim.UpdatePrescriber.mutationLabel" : "Mettre à jour le prescripteur - {code}",
     "claim.specialityPicker.placeholder": "Rechercher une spécialité",
     "claim.specialityPicker.label": "Spécialité",
+    "claim.prescriberTaken": "Le code de spécialité existe déjà",
     "claim.PrescriberPicker.placeholder": "Rechercher un prescripteur",
     "claim.PrescriberPicker.label": "Prescripteur",
     "claim.prescriber.speciality": "Spécialité",
