@@ -4303,5 +4303,6 @@
     "claim.preAuth.status.2": "Entrée",
     "claim.preAuth.status.4": "Vérifiée",
     "claim.preAuth.status.8": "Traitée",
-    "claim.preAuth.status.16": "Evaluée"
+    "claim.preAuth.status.16": "Evaluée",
+    "pre-autorization-required": "Pré-autorisation obligatoire"
 }
