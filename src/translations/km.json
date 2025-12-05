@@ -4304,5 +4304,6 @@
     "claim.preAuth.status.4": "Vérifiée",
     "claim.preAuth.status.8": "Traitée",
     "claim.preAuth.status.16": "Evaluée",
-    "pre-autorization-required": "Pré-autorisation obligatoire"
+    "pre-autorization-required": "Pré-autorisation obligatoire",
+    "claim.ClaimFilter.claimPreAuthNo": "N° de pré-autorisation"
 }
