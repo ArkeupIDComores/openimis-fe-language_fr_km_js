@@ -4299,11 +4299,13 @@
     "claim.rejectionDialog.rejectionReason": "Motif du rejet",
     "claim.rejectionDialog.placeholder": "Motif du rejet",
     "claim.preAuth.status.null": "Tous",
-    "claim.preAuth.status.1": "Rejetée",
-    "claim.preAuth.status.2": "Entrée",
-    "claim.preAuth.status.4": "Vérifiée",
-    "claim.preAuth.status.8": "Traitée",
-    "claim.preAuth.status.16": "Evaluée",
-    "pre-autorization-required": "Pré-autorisation obligatoire",
-    "claim.ClaimFilter.claimPreAuthNo": "N° de pré-autorisation"
+    "claim.preAuth.status.1": "Refusé",
+    "claim.preAuth.status.2": "Créé",
+    "claim.preAuth.status.4": "En attente de l'approbation administrative HF",
+    "claim.preAuth.status.8": "En attente d'approbation médicale",
+    "claim.preAuth.status.16": "Approuvé",
+    "claim.ClaimFilter.claimPreAuthNo": "N° de pré-autorisation",
+    "claim.pre-autorization-required": "Pré-autorisation obligatoire",
+    "medical.service.preAuthorizationRequired": "Pré-autorisation obligatoire",
+    "medical.item.preAuthorizationRequired": "Pré-autorisation obligatoire"
 }
