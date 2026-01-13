@@ -4160,7 +4160,7 @@
     "socialProtection.benefitPlan.benefitPlanBeneficiaries.upload.alert.header.invalid_format": "Format de fichier non valide !",
     "socialProtection.benefitPlan.benefitPlanBeneficiaries.upload.alert.message.invalid_format": "Veuillez télécharger un fichier CSV ou Excel valide !",
     "policy.PaymentDay": "Date de paiement",
-    "policy.PaymentDay.5": "",
+    "policy.PaymentDay.5": "5",
     "policy.PaymentDay.10": "10",
     "policy.PaymentDay.15": "15",
     "policy.PaymentDay.20": "20",
