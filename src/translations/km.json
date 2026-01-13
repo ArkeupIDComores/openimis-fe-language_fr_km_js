@@ -4305,7 +4305,7 @@
     "claim.preAuth.status.8": "En attente d'approbation médicale",
     "claim.preAuth.status.16": "Approuvé",
     "claim.ClaimFilter.claimPreAuthNo": "N° de pré-autorisation",
-    "claim.pre-autorization-required": "Pré-autorisation obligatoire",
-    "medical.service.preAuthorizationRequired": "Pré-autorisation obligatoire",
-    "medical.item.preAuthorizationRequired": "Pré-autorisation obligatoire"
+    "claim.pre-authorization-required": "Pré-autorisation obligatoire",
+    "admin.medical.service.preAuthorizationRequired": "Pré-autorisation obligatoire",
+    "admin.medical.item.preAuthorizationRequired": "Pré-autorisation obligatoire"
 }
