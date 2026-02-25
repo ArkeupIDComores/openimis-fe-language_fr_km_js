@@ -539,6 +539,7 @@
     "insuree.Insuree.photoFilename": "Nom du fichier",
     "insuree.Insuree.email": "Email",
     "insuree.Insuree.passport": "Numéro d'identification",
+    "insuree.Insuree.FixIncome": "Revenu du ménage",
     "insuree.Insuree.cardIssued": "Carte de bénéficiaire",
     "insuree.Insuree.currentVillage.sameAsFamily": "La même localité que le ménage",
     "insuree.Insuree.currentAddress": "Adresse",
