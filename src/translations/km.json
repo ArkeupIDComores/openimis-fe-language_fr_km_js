@@ -4310,4 +4310,21 @@
     "tools.ExtractsPage.importBtn": "Import",
     "tools.ExtractsPage.ResultDialog.totalTransaction": "Nombre de transaction traitées",
     "tools.ExtractsPage.ResultDialog.chfID": "Numéro d'assuré"
+    "invoice.familyInvoicesPayments.title": "{count} Factures / Paiements",
+    "invoice.familyInvoicesPayments.coveredPeriod": "Période couverte",
+    "invoice.familyInvoicesPayments.invoiceNumber": "Numéro de facture",
+    "invoice.familyInvoicesPayments.amountDue": "Montant de la facture",
+    "invoice.familyInvoicesPayments.totalInvoicePayments": "Total des paiements de la facture",
+    "invoice.familyInvoicesPayments.invoiceBalance": "Solde de la facture",
+    "invoice.familyInvoicesPayments.lastPayment": "Dernier paiement",
+    "invoice.familyInvoicesPayments.totalInvoiceAmount": "Total des factures",
+    "invoice.familyInvoicesPayments.totalPaidAmount": "Montant total payé",
+    "invoice.familyInvoicesPayments.globalBalance": "Dette Totale",
+    "invoice.familyInvoicesPayments.invoicePaymentsSectionTitle": "Paiements de la facture {invoiceNumber} ({count})",
+    "invoice.familyInvoicesPayments.invoicePaymentDate": "Date de paiement",
+    "invoice.familyInvoicesPayments.invoicePaymentAmount": "Montant du paiement",
+    "invoice.familyInvoicesPayments.invoicePaymentReference": "Référence du paiement",
+    "invoice.familyInvoicesPayments.invoicePaymentOrigin": "Origine du paiement",
+    "invoice.familyInvoicesPayments.invoicePaymentCodeReceipt": "Numéro de reçu",
+    "invoice.familyInvoicesPayments.invoicePaymentPayerRef": "Référence du payeur"
 }
