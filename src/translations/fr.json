@@ -2464,7 +2464,7 @@
     "invoice.familyInvoicesPayments.amountDue": "Montant de la facture",
     "invoice.familyInvoicesPayments.totalInvoicePayments": "Total des paiements de la facture",
     "invoice.familyInvoicesPayments.invoiceBalance": "Solde de la facture",
-    "invoice.familyInvoicesPayments.lastPayment": "Dernier paiement",
+    "invoice.familyInvoicesPayments.lastPayment": "Date de paiement",
     "invoice.familyInvoicesPayments.totalInvoiceAmount": "Total des factures",
     "invoice.familyInvoicesPayments.totalPaidAmount": "Montant total payé",
     "invoice.familyInvoicesPayments.globalBalance": "Dette Totale",
