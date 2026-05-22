@@ -4275,5 +4275,22 @@
     "medical.deleteSpeciality.confirm.message": "Êtes-vous sûr de vouloir supprimer la spécialité {code} - {speciality}?",
     "medical.DeleteSpeciality.mutationLabel": "Supprimer la spécialité {code}",
     "claim.menu.specialities": "Spécialités",
-    "claim.patientCondition.T": "En traitement"
+    "claim.patientCondition.T": "En traitement",
+    "invoice.familyInvoicesPayments.title": "{count} Factures / Paiements",
+    "invoice.familyInvoicesPayments.coveredPeriod": "Période couverte",
+    "invoice.familyInvoicesPayments.invoiceNumber": "Numéro de facture",
+    "invoice.familyInvoicesPayments.amountDue": "Montant de la facture",
+    "invoice.familyInvoicesPayments.totalInvoicePayments": "Total des paiements de la facture",
+    "invoice.familyInvoicesPayments.invoiceBalance": "Solde de la facture",
+    "invoice.familyInvoicesPayments.lastPayment": "Date de paiement",
+    "invoice.familyInvoicesPayments.totalInvoiceAmount": "Total des factures",
+    "invoice.familyInvoicesPayments.totalPaidAmount": "Montant total payé",
+    "invoice.familyInvoicesPayments.globalBalance": "Dette Totale",
+    "invoice.familyInvoicesPayments.invoicePaymentsSectionTitle": "Paiements de la facture {invoiceNumber} ({count})",
+    "invoice.familyInvoicesPayments.invoicePaymentDate": "Date de paiement",
+    "invoice.familyInvoicesPayments.invoicePaymentAmount": "Montant du paiement",
+    "invoice.familyInvoicesPayments.invoicePaymentReference": "Référence du paiement",
+    "invoice.familyInvoicesPayments.invoicePaymentOrigin": "Origine du paiement",
+    "invoice.familyInvoicesPayments.invoicePaymentCodeReceipt": "Numéro de reçu",
+    "invoice.familyInvoicesPayments.invoicePaymentPayerRef": "Référence du payeur"
 }
