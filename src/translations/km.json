@@ -4327,5 +4327,6 @@
     "invoice.familyInvoicesPayments.invoicePaymentOrigin": "Origine du paiement",
     "invoice.familyInvoicesPayments.invoicePaymentCodeReceipt": "Numéro de reçu",
     "invoice.familyInvoicesPayments.invoicePaymentPayerRef": "Référence du payeur",
-    "policy.printVersoSelected": "Imprimer la carte AMG verso"
+    "policy.printVersoSelected": "Imprimer la carte AMG verso",
+    "invoiceEvent.dateCreatedAt": "Créé le"
 }
